@@ -17,8 +17,8 @@ namespace Daemon;
  */
 class Daemon
 {
-	public static function _init()
-	{
+    public static function _init()
+    {
         
     }
 
